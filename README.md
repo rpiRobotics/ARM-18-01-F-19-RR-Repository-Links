@@ -1,6 +1,14 @@
 # ARM-18-01-RR-Repository-Links
 Links to the repositories created under the Robot Raconteur ARM project.
 
+Robot Raconteur Core Library: https://github.com/robotraconteur/robotraconteur
+
+Robot Raconteur Web Library: https://github.com/robotraconteur/RobotRaconteurWeb
+
+Robot Raconteur Lite Library: https://github.com/robotraconteur/robotraconteurlite
+
+
+
 Robot Raconteur Gazebo Plugin: https://github.com/johnwason/RobotRaconteur_Gazebo_Server_Plugin
 
 Robot Raconteur Standards Documents: https://github.com/johnwason/robotraconteur_standards
@@ -27,11 +35,7 @@ Xacro Robot Raconteur: https://github.com/johnwason/xacro_robotraconteur
 
 Robot Raconteur Service Browser: https://github.com/robotraconteur/RobotRaconteur_ServiceBrowser
 
-Robot Raconteur Core Library: https://github.com/robotraconteur/robotraconteur
 
-Robot Raconteur Web Library: https://github.com/robotraconteur/RobotRaconteurWeb
-
-Robot Raconteur Lite Library: https://github.com/robotraconteur/robotraconteurlite
 
 Kinect V2 RR Driver: https://github.com/wlawler45/RRKinectInterface
 
@@ -46,6 +50,8 @@ General Robotics Toolbox C#: https://github.com/wlawler45/GeneralRoboticsToolbox
 Kinect Azure RR Driver: https://github.com/wlawler45/Kinect_Azure_RR_Interface
 
 Raspberry Pi RR Interface: https://github.com/wlawler45/RobotRaconteurRaspberryPiSenseHat
+
+
 
 RR Turtlesim: https://github.com/hehonglu123/turtlesim_RR_ROS
 
