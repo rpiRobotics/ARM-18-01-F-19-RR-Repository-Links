@@ -1,60 +1,84 @@
 # ARM-18-01-F-19-RR-Repository-Links
 Links to the repositories created under the Robot Raconteur ARM project.
 
-[Robot Raconteur Core Library](https://github.com/robotraconteur/robotraconteur)
+<p align="center"><img src="https://robotraconteurpublicfiles.s3.amazonaws.com/RRheader2.jpg"></p>
 
-[Robot Raconteur Web Library](https://github.com/robotraconteur/RobotRaconteurWeb)
+# Robot Raconteur Directory
 
-[Robot Raconteur Lite Library](https://github.com/robotraconteur/robotraconteurlite)
+Directory of device drivers, applications, utilities, examples, and documentation projects for Robot Raconteur
 
-<br/>
+## Robot Raconteur Libraries
 
-[Robot Raconteur Gazebo Plugin](https://github.com/johnwason/RobotRaconteur_Gazebo_Server_Plugin)
+[Robot Raconteur Core](https://github.com/robotraconteur/robotraconteur) - Robot Raconteur core C++ library and wrappers
 
-[Robot Raconteur Standards Documents](https://github.com/johnwason/robotraconteur_standards)
+[Robot Raconteur Lite](https://github.com/robotraconteur/robotraconteurlite) - Robot Raconteur lightweight ANSI C implementation (incomplete)
 
-[Robot Raconteur Web Standard Robdefs](https://github.com/johnwason/RobotRaconteurWeb.StandardRobDefLib)
+[Robot Raconteur Pyodide](https://github.com/robotraconteur/robotraconteur_pyodide) - Robot Raconteur library for Pyodide, Python for the browser using WebAssembly
 
-[Gazebo Model Robot Raconteur Driver](https://github.com/johnwason/GazeboModelRobotRaconteurDriver)
+## Robot Raconteur Companion Libraries
 
-[Baxter Robot Raconteur Driver](https://github.com/johnwason/BaxterRobotRaconteurDriver)
+[Robot Raconteur Companion C++](https://github.com/robotraconteur/robotraconteur_companion) - Robot Raconteur Companion library for C++
 
-[Sawyer Robot Raconteur Driver](https://github.com/johnwason/SawyerRobotRaconteurDriver)
+[Robot Raconteur Companion .NET](https://github.com/robotraconteur/RobotRaconteurNET.Companion) Robot Raconteur Companion library for C#
 
-[Robot Raconteur Standard Robdefs](https://github.com/johnwason/robotraconteur_standard_robdef)
+## Robot Raconteur Standards
 
-[Robot Raconteur Standard Robdefs for C++](https://github.com/johnwason/robotraconteur_standard_robdef_cpp)
+[Robot Raconteur Standards](https://github.com/robotraconteur/robotraconteur_standards) - Robot Raconteur Framework standards
 
-[ABB Robot Raconteur Driver](https://github.com/johnwason/ABBRobotRaconteurDriver)
+[Robot Raconteur Standard RobDef](https://github.com/robotraconteur/robotraconteur_standard_robdef) - Robot Raconteur standard service types for interoperable ecosystem devices
 
-[Tesseract Robot Raconteur](https://github.com/johnwason/tesseract_robotraconteur)
+[Robot Raconteur Standard Identifiers](https://github.com/robotraconteur/robotraconteur_standard_identifiers) - Standard identifiers (names and UUIDs) for use within Robot Raconteur ecosystem
 
-[Robot Raconteur Vcpkg release](https://github.com/johnwason/vcpkg)
+## Robot Raconteur Drivers
 
-[Xacro Robot Raconteur](https://github.com/johnwason/xacro_robotraconteur)
+### Robots
 
-[Robot Raconteur Service Browser](https://github.com/robotraconteur/RobotRaconteur_ServiceBrowser)
+[Rethink Robotics Sawyer Driver](https://github.com/robotraconteur-contrib/SawyerRobotRaconteurDriver) - Driver for Rethink Robotics Sawyer Robot
 
-<br/>
+[Rethink Robotics Baxter Driver](https://github.com/robotraconteur-contrib/BaxterRobotRaconteurDriver) - Driver for Rethink Robotics Baxter Robot
 
-[Kinect V2 RR Driver](https://github.com/wlawler45/RRKinectInterface)
+[Universal Robotics Driver](https://github.com/robotraconteur-contrib/URRobotRaconteurDriver) - Driver for Rethink Robotics UR3, UR5, and UR10 (CB2, CB3, and e-series controllers)
 
-[MTI Line Scanner RR Interface](https://github.com/wlawler45/MTI_RR_Interface)
+[ABB Robot Driver](https://github.com/robotraconteur-contrib/ABBRobotRaconteurDriver) - Driver for ABB IRC5 robot controllers with EGM feature
 
-[MathNetNumerics Net version](https://github.com/wlawler45/MathNetNumericsNet)
+[Staubli Robot Driver](https://github.com/robotraconteur-contrib/StaubliRobotRaconteurDriver) - Driver for Staubli CS6 robot controllers (trajectory mode only)
 
-[General Robotics Toolbox Net](https://github.com/wlawler45/GeneralRoboticsToolboxNet)
+[Motoman HSC Driver](https://github.com/robotraconteur-contrib/MotomanHSCRobotRaconteurDriver) - Driver for Motoman HSC controllers (Incomplete!)
 
-[General Robotics Toolbox C#](https://github.com/wlawler45/GeneralRoboticsToolboxC-)
+[Gazebo Robot Raconteur Driver](https://github.com/robotraconteur-contrib/GazeboModelRobotRaconteurDriver) - Driver for robots running in Gazebo simulation environment
 
-[Kinect Azure RR Driver](https://github.com/wlawler45/Kinect_Azure_RR_Interface)
+[Robotiq Three Finger Gripper Driver](https://github.com/robotraconteur-contrib/RobotiqThreeFingerGripperRobotRaconteurDriver) - Driver for Robotiq Three Finger gripper
 
-[Raspberry Pi RR Interface](https://github.com/wlawler45/RobotRaconteurRaspberryPiSenseHat)
+[Robot Signal Tool Driver](https://github.com/robotraconteur-contrib/RobotSignalToolRobotRaconteurDriver) - Driver for tools that are controlled by robot digital-io signals, for instance pneumatic grippers
 
-<br/>
+### Cameras
 
-[RR Turtlesim](https://github.com/hehonglu123/turtlesim_RR_ROS)
+[Robot Raconteur Camera Driver](https://github.com/robotraconteur-contrib/robotraconteur_camera_driver) - Camera driver based on OpenCV VideoCapture class
 
-[ARM Project RR Simulation Demo](https://github.com/hehonglu123/RR_Project)
+[Kinect Azure Driver](https://github.com/robotraconteur-contrib/Kinect_Azure_RR_Interface) - Driver for Kinect Azure sensors
 
-[Duckie Detection and PiHat output](https://github.com/hehonglu123/pihat_trials_ROS_RR)
+[Cognex Driver](https://github.com/robotraconteur-contrib/Cognex_driver) - Driver for Cognex object recognition cameras over Ethernet
+
+### Misc Devices
+
+[Joystick/Gamepad Driver](https://github.com/robotraconteur-contrib/robotraconteur_joystick_driver) - SDL2 based driver for gamepads and joysticks
+
+[MTI Sensor](https://github.com/robotraconteur-contrib/MTI_RR_Interface)
+
+## Utilities
+
+[Service Browser](https://github.com/robotraconteur/RobotRaconteur_ServiceBrowser) - GUI utility to view devices on local network using discovery
+
+[Tap Recorder](https://github.com/robotraconteur/RobotRaconteurLocalTapRecorder) - Recorder for local taps (diagnostic logging of log records and messages)
+
+## Examples
+
+[Robot Raconteur C++ Examples](https://github.com/robotraconteur/RobotRaconteur_CPP_Examples)
+
+[Robot Raconteur Python Examples](https://github.com/robotraconteur/RobotRaconteur_Python_Examples)
+
+[Robot Raconteur CSharp Examples](https://github.com/robotraconteur/RobotRaconteur_CSharp_Examples)
+
+[Robot Raconteur Java Examples](https://github.com/robotraconteur/RobotRaconteur_Java_Examples)
+
+[Robot Raconteur MATLAB Examples](https://github.com/robotraconteur/RobotRaconteur_MATLAB_Examples)
