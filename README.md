@@ -3,6 +3,10 @@ Links to the repositories created under the Robot Raconteur ARM project.
 
 <p align="center"><img src="https://robotraconteurpublicfiles.s3.amazonaws.com/RRheader2.jpg"></p>
 
+**Try out Robot Raconteur with the training simulator!**
+
+https://github.com/robotraconteur-contrib/robotraconteur_training_sim
+
 # Robot Raconteur Directory
 
 Directory of device drivers, applications, utilities, examples, and documentation projects for Robot Raconteur
